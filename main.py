@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 # 全局常量
 LIB_FILE = "lib.json"  # 成语库文件路径
 SCORES_FILE = "scores.json"  # 用户最佳成绩文件路径
-TOKEN = "7496957549:AAHj13fl2eFrri7yQs_iJWboHl53MMOj0tA"  # Telegram Bot Token
+TOKEN = "7496957539:AAHj13fl2eFrri7yQs_iJWboHl53MMOj0tA"  # Telegram Bot Token
 
 # 文件操作函数
 def load_json(file):
