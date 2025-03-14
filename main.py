@@ -18,8 +18,8 @@ logger = logging.getLogger(__name__)
 LIB_FILE = "lib.json"  # 主成语库文件路径
 USER_LIB_FILE = "user-lib.json"  # 用户成语库文件路径
 SCORES_FILE = "scores.json"  # 用户最佳成绩文件路径
-TOKEN = "7496957549:AAHj13fl2eFrri7yQs_iJWboHl53MMOj0tA"  # Telegram Bot Token
-ADMIN_ID = "5994181341"  # 管理员的Telegram ID
+TOKEN = ""  # Telegram Bot Token
+ADMIN_ID = ""  # 管理员的Telegram ID
 
 # 文件操作函数
 def load_json(file):
